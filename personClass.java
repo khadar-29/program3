@@ -46,7 +46,7 @@ class Employee extends Person {
 public class personClass  {
     public static void main (String [] args) {
        
-        String name = "khadar";
+        String name = "khadar vali";
         String dob = "2004-11-26"; 
         int empId = 160;
         double salary = 50000.00;
